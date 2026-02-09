@@ -49,16 +49,22 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=IceYuanyyy&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IceYuanyyy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IceYuanyyy&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IceYuanyyy&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IceYuanyyy&theme=tokyo-night" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IceYuanyyy&theme=tokyo-night" />
+</p>
