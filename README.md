@@ -51,11 +51,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=IceYuanyyy&show_icons=true&theme=tokyonight" />
 
+---
+
 ## 🔥 Streak Stats
 
-<img src="F:\AppData\Typora\Typoratypora-user-images\1770629923474-17.svg+xml" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IceYuanyyy&theme=tokyonight" />
+
+---
 
 ## 📈 Contribution Graph
 
-<img src="F:\AppData\Typora\Typoratypora-user-images\graph.svg+xml" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IceYuanyyy&theme=tokyo-night" />
