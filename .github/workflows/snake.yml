@@ -14,10 +14,14 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
+          # 注意：这里是你自己的用户名
           github_user_name: IceYuanyyy
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # 1. 浅色模式：强制使用 github-light 配色(绿块)，并将蛇设置为紫色(#7b16ff)
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7b16ff
+            
+            # 2. 深色模式：保持暗色背景，但蛇依然是紫色(可选)
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7b16ff
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
