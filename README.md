@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Full%20Stack%20%2B%20AI;Machine%20Learning%20%2B%20Deep%20Learning;Keep%20Shipping%20%26%20Learning&center=true&width=520&height=40">
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -15,37 +14,45 @@
   <img src="https://img.shields.io/badge/Vibe%20Coding-FF6F61?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
 ---
 
 ## 🚀 About Me
 
-- 🏫 Undergrad at Shandong Technology and Business University (SDTBU), lead of C4 Lab
-- 🤖 Interested in Machine Learning, Deep Learning, AI app development, and Java full stack
-- 📚 Currently learning ML / DL, AI application delivery, and preparing for the 2027 entrance exam
-- 🙏 Always learning—thanks for any guidance
+- 🎓 Undergraduate at **Shandong Technology and Business University (SDTBU)**  
+- 🧪 Core member & lead of **C4 Lab**
+- 💻 Focused on **Java Full Stack**, **AI Application Development**
+- 🤖 Interested in **Machine Learning / Deep Learning**
+- 📚 Currently preparing for **2027 postgraduate entrance exam**
+- 🌱 Believe in long-term growth & continuous delivery
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:2478686497@qq.com">
     <img src="https://img.shields.io/badge/Email%20(QQ)-D7141A?style=for-the-badge&logo=maildotru&logoColor=white" />
-    <span>Email (QQ)</span>
-  </a><br/>
-  <a href="mailto:ercurym86@gmail.com">
+  </a>
+  <a href="mailto:mercurym86@gmail.com">
     <img src="https://img.shields.io/badge/Email%20(Gmail)-EB4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    <span>Email (Gmail)</span>
-  </a><br/>
+  </a>
   <a href="https://github.com/IceYuanyyy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <span>GitHub</span>
   </a>
 </p>
 
-## 📈 Contribution Graph
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IceYuanyyy&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/IceYuanyyy/IceYuanyyy/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IceYuanyyy&theme=tokyo-night&hide_border=true" />
 </p>
