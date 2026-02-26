@@ -28,19 +28,31 @@
 ---
 
 <details>
-<summary>## 🤝 Connect With Me</summary>
+<summary><b>🤝 Connect With Me</b></summary>
 
 <br>
 
-<p align="center">
+<div align="center">
 
-[![QQ](https://img.shields.io/badge/QQ-2478686497-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](mailto:2478686497@qq.com)
+<a href="mailto:2478686497@qq.com">
+  <img src="https://img.shields.io/badge/QQ-2478686497-12B7F5?style=for-the-badge&logo=qq&logoColor=white" 
+       alt="QQ" 
+       title="QQ邮箱: 2478686497@qq.com">
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-mercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mercurym86@gmail.com)
+<a href="mailto:mercurym86@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white" 
+       alt="Gmail" 
+       title="Gmail: mercurym86@gmail.com">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-IceYuanyyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IceYuanyyy)
+<a href="https://github.com/IceYuanyyy">
+  <img src="https://img.shields.io/badge/GitHub-IceYuanyyy-181717?style=for-the-badge&logo=github&logoColor=white" 
+       alt="GitHub" 
+       title="GitHub: https://github.com/IceYuanyyy">
+</a>
 
-</p>
+</div>
 
 <br>
 </details>
