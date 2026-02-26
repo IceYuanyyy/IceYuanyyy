@@ -27,29 +27,38 @@
 
 ---
 
-## 🤝 Connect With Me
+<details>
+  <summary align="center">
+    <h2>🤝 Connect With Me</h2>
+  </summary>
 
-<p align="center">
+  <br>
 
-  <!-- QQ 邮箱 -->
-  <img 
-    src="https://img.shields.io/badge/QQ%20Mail-2478686497@qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white"
-    title="QQ邮箱: 2478686497@qq.com"
-  />
+  <p align="center">
 
-  <!-- Gmail -->
-  <img 
-    src="https://img.shields.io/badge/Gmail-mercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white"
-    title="Gmail: mercurym86@gmail.com"
-  />
+    <!-- QQ -->
+    <img 
+      src="https://img.shields.io/badge/QQ-2478686497-12B7F5?style=for-the-badge&logo=qq&logoColor=white"
+      title="QQ邮箱: 2478686497@qq.com"
+    />
 
-  <!-- GitHub -->
-  <img 
-    src="https://img.shields.io/badge/GitHub-IceYuanyyy-181717?style=for-the-badge&logo=github&logoColor=white"
-    title="GitHub: [IceYuanyyy](https://github.com/IceYuanyyy)"
-  />
+    <!-- Gmail -->
+    <img 
+      src="https://img.shields.io/badge/Gmail-mercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white"
+      title="Gmail: mercurym86@gmail.com"
+    />
 
-</p>
+    <!-- GitHub -->
+    <img 
+      src="https://img.shields.io/badge/GitHub-IceYuanyyy-181717?style=for-the-badge&logo=github&logoColor=white"
+      title="GitHub: https://github.com/IceYuanyyy"
+    />
+
+  </p>
+
+  <br>
+
+</details>
 
 ---
 
