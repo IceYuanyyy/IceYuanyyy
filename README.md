@@ -29,26 +29,23 @@
 
 <details>
   <summary align="center">
-    <h2>🤝 Connect With Me</h2>
+    <b>🤝 Connect With Me</b>
   </summary>
 
   <br>
 
   <p align="center">
 
-    <!-- QQ -->
     <img 
       src="https://img.shields.io/badge/QQ-2478686497-12B7F5?style=for-the-badge&logo=qq&logoColor=white"
       title="QQ邮箱: 2478686497@qq.com"
     />
 
-    <!-- Gmail -->
     <img 
       src="https://img.shields.io/badge/Gmail-mercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white"
       title="Gmail: mercurym86@gmail.com"
     />
 
-    <!-- GitHub -->
     <img 
       src="https://img.shields.io/badge/GitHub-IceYuanyyy-181717?style=for-the-badge&logo=github&logoColor=white"
       title="GitHub: https://github.com/IceYuanyyy"
@@ -59,7 +56,6 @@
   <br>
 
 </details>
-
 ---
 
 ## 🐍 Contribution Snake
