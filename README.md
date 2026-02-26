@@ -50,9 +50,15 @@
 </p>
 
 ---
-
+<!--
 ## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IceYuanyyy&theme=tokyo-night&hide_border=true" />
+</p>
+-->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IceYuanyyy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
