@@ -30,18 +30,21 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:2478686497@qq.com" title="QQ邮箱: 2478686497@qq.com">
-    <img src="https://img.shields.io/badge/Email%20(QQ)-D7141A?style=for-the-badge&logo=maildotru&logoColor=white" />
-  </a>
-
-  <a href="mailto:mercurym86@gmail.com" title="Gmail: mercurym86@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20(Gmail)-EB4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/IceYuanyyy" title="GitHub: IceYuanyyy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Click%20to%20View-Contact%20Info-1f6feb?style=for-the-badge" />
 </p>
+
+<details>
+<summary align="center">📬 Show Contact Info</summary>
+
+<p align="center">
+
+📧 **QQ**: 2478686497@qq.com  
+📧 **Gmail**: mercurym86@gmail.com  
+🐙 **GitHub**: IceYuanyyy  
+
+</p>
+
+</details>
 
 ---
 
