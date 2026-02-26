@@ -28,7 +28,7 @@
 ---
 
 <details>
-<summary>🤝 Connect With Me</summary>
+<summary>## 🤝 Connect With Me</summary>
 
 <br>
 
