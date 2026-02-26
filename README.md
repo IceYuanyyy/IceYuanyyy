@@ -32,8 +32,6 @@
     🤝 Connect With Me
   </summary>
 
-  <br>
-
   <p align="center">
 
     <!-- QQ -->
@@ -55,8 +53,6 @@
     />
 
   </p>
-
-  <br>
 
 </details>
 ---
