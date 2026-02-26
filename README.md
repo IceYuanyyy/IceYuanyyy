@@ -28,9 +28,11 @@
 ---
 
 <details>
-  <summary align="center" style="font-size:20px; font-weight:600;">
-    🤝 Connect With Me
+  <summary align="center">
+    <h2>🤝 Connect With Me</h2>
   </summary>
+
+  <br>
 
   <p align="center">
 
@@ -54,7 +56,10 @@
 
   </p>
 
+  <br>
+
 </details>
+
 ---
 
 ## 🐍 Contribution Snake
