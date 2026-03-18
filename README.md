@@ -20,7 +20,7 @@
 
 - 🎓 Undergraduate at **Shandong Technology and Business University (SDTBU)**  
 - 🧪 Core member & lead of **C4 Lab**
-- 💻 Focused on **Java Full Stack**, **AI Application Development**
+- 💻 Focused on **Java Full Stack**, **AI Application Development**,**AI Agent**,**Vibe Coding**
 - 🤖 Interested in **Machine Learning / Deep Learning**
 - 📚 Currently preparing for **2027 postgraduate entrance exam**
 - 🌱 Believe in long-term growth & continuous delivery
