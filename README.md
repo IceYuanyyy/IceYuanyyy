@@ -42,7 +42,7 @@
 </a>
 
 <a href="mailto:ercurym86@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white" 
+  <img src="https://img.shields.io/badge/Gmail-ercurym86@gmail.com-EB4335?style=for-the-badge&logo=gmail&logoColor=white" 
        alt="Gmail" 
        title="Gmail: ercurym86@gmail.com">
 </a>
