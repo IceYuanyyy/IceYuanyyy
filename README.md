@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mercury (HeYuan)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=A277FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack;AI+Application+Development;AI+Agent;Vibe+Coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Java+Full+Stack;AI+Application+Development;AI+Agent;Vibe+Coding" />
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@
 - 🤖 Interested in **Machine Learning / Deep Learning**
 - 📚 Currently preparing for **2027 postgraduate entrance exam**
 - 🌱 Believe in long-term growth & continuous delivery
+- 🎯 Dream Target:From SDTBU to WUT — one disciplined step at a time
 
 ---
 
