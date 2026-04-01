@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mercury (HeYuan)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Full%20Stack%20%2B%20AI;Machine%20Learning%20%2B%20Deep%20Learning;Keep%20Shipping%20%26%20Learning&center=true&width=520&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=A277FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack;AI+Application+Development;AI+Agent;Vibe+Coding" />
 </p>
 
 <p align="center">
