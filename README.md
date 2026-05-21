@@ -80,7 +80,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IceYuanyyy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=IceYuanyyy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
